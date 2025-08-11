@@ -66,8 +66,9 @@ The dataset contains:
 ## 📌 Author
 - **Name:** Aniket
 - **Role:** Data Analyst / BI Developer
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [aniketjatavwork@gmail.com]
+
+
 
 ---
 # CAPSTON-PROJECT-BLINKIT-SALES-
